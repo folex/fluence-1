@@ -1,5 +1,5 @@
 name: telegram message
-on: []
+on: [workflow-dispatch]
 jobs:
 
   build:
